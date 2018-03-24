@@ -1064,7 +1064,7 @@ plt.savefig("Temperature_In_World_Cities.png")
 ```
 
 
-![png](output_12_0.png)
+![png](Temperature_In_World_Cities.png)
 
 
 ### Latitude vs. Humidity Plot
@@ -1082,7 +1082,7 @@ plt.savefig("Humidity_In_World_Cities.png")
 ```
 
 
-![png](output_14_0.png)
+![png](Humidity_In_World_Cities.png)
 
 
 ### Latitude vs. Cloudiness Plot
@@ -1100,7 +1100,7 @@ plt.savefig("Cloudiness_In_World_Cities.png")
 ```
 
 
-![png](output_16_0.png)
+![png](Cloudiness_In_World_Cities.png)
 
 
 ### Wind Speed in World Cities
@@ -1118,5 +1118,5 @@ plt.savefig("Wind_Speed_In_World_Cities.png")
 ```
 
 
-![png](output_18_0.png)
+![png](Wind_Speed_In_World_Cities.png)
 
